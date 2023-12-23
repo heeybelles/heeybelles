@@ -1,8 +1,8 @@
+# Hi my name is Eduarda Belles👋
 
 ![Banner frete grátis simples rosa](https://github.com/heeybelles/heeybelles/assets/117698621/d7b98f78-dddf-4494-a3fa-696b9727b47c)
 
 
-# Hi my name is Eduarda Belles👋
 - 🔭 Considero-me programadora front-end
 - 📫 Me aprimorando em  javacript e c#
 - 😄 Pronouns: Ela/Dela
@@ -33,5 +33,8 @@
 ## Desempenho:
 ![heeybelles's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeybelles&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeybelles&layout=donut&show_icons=true&theme=radical)](https://github.com/heeybelles/github-readme-stats)
+
+![giphy](https://github.com/heeybelles/heeybelles/assets/117698621/6c66610e-2c89-4537-b9e7-ea2da262efbf)
+
 
 ![snake gif](https://github.com/heeybelles/heeybelles/blob/output/github-contribution-grid-snake.svg)

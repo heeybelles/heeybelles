@@ -37,4 +37,4 @@
 ![giphy](https://github.com/heeybelles/heeybelles/assets/117698621/6c66610e-2c89-4537-b9e7-ea2da262efbf)
 
 
-![s
+![snake gif](https://github.com/heeybelles/heeybelles/blob/output/github-contribution-grid-snake.svg)

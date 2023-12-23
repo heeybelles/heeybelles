@@ -33,4 +33,4 @@
 ![heeybelles's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeybelles&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeybelles&layout=donut&show_icons=true&theme=radical)](https://github.com/heeybelles/github-readme-stats)
 
-
+![snake gif](https://github.com/heeybelles/heeybelles/blob/output/github-contribution-grid-snake.svg)

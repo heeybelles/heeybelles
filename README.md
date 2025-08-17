@@ -6,7 +6,7 @@
 - 🔭 Considero-me programadora front-end
 - 📫 Me aprimorando em  Javacript, C#, C++ e Java
 - 😄 Pronouns: Ela/Dela
-- ⚡ --> Idiomas: Nível básico a intermediário
+- ⚡ --> Idiomas: Coreano => Nível básico
 - 💻 --> Interesse: Área de desenvolvimento web e coordenação de projetos 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardabelles/)

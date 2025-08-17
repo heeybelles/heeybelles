@@ -4,7 +4,7 @@
 
 
 - 🔭 Considero-me programadora front-end
-- 📫 Me aprimorando em  javacript e c#
+- 📫 Me aprimorando em  Javacript, C#, C++ e Java
 - 😄 Pronouns: Ela/Dela
 - ⚡ --> Idiomas: Nível básico a intermediário
 - 💻 --> Interesse: Área de desenvolvimento web e coordenação de projetos 

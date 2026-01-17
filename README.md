@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi my name is Eduarda Belles👋</h2>
 <img width="2000" height="1414" alt="Capa Github (1)" src="https://github.com/user-attachments/assets/772899ed-c674-4167-91a7-52aa9e4b7a6b" />
 

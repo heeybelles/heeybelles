@@ -1,20 +1,15 @@
 # Hi my name is Eduarda Belles👋
 
-![Banner frete grátis simples rosa](https://github.com/heeybelles/heeybelles/assets/117698621/d7b98f78-dddf-4494-a3fa-696b9727b47c)
+<img width="2000" height="1414" alt="Capa Github" src="https://github.com/user-attachments/assets/89f2efe7-6ba7-457d-84f8-60f56d08325e" />
 
-
-- 🔭 Considero-me programadora front-end
-- 📫 Me aprimorando em  Javacript, C#, C++ e Java
-- 😄 Pronouns: Ela/Dela
-- ⚡ --> Idiomas: Coreano => Nível básico
-- 💻 --> Interesse: Área de desenvolvimento web e coordenação de projetos 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardabelles/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4lR65VpZh39nR_TDIYEtxQ)
 
  ## Meus conhecimentos:
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javasc!ript&logoColor=black)
+
 ![html](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
